@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="300mm"
+   viewBox="0 0 170 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="desenho.svg"
+   inkscape:export-filename="quintas.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.0444209"
+     inkscape:cx="133.0881"
+     inkscape:cy="667.35546"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g399"
+       transform="matrix(0.93691903,0.24398369,-0.25104669,0.91055954,26.700852,-13.136175)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         id="path61"
+         inkscape:flatsided="true"
+         sodipodi:sides="12"
+         sodipodi:cx="27.944511"
+         sodipodi:cy="35.109772"
+         sodipodi:r1="65.239281"
+         sodipodi:r2="63.016308"
+         sodipodi:arg1="0.67645621"
+         sodipodi:arg2="0.93825559"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 78.817851,75.951749 51.581127,95.916631 18.010991,99.588365 -12.897466,85.983111 -32.862348,58.746388 -36.534081,25.176252 -22.928828,-5.7322053 4.3078956,-25.697088 l 33.5701354,-3.671733 30.908457,13.605253 19.964883,27.236724 3.671733,33.570136 z"
+         transform="matrix(1.0179659,-0.1510966,0.15682604,1.0565661,51.047314,52.126526)"
+         inkscape:transform-center-x="-0.059736126"
+         inkscape:transform-center-y="69.616678" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         d="M 85.000062,15.373183 84.999937,154.62681"
+         id="path277" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         d="m 17.805157,84.247073 134.389683,1.50585"
+         id="path279" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         d="M 143.19247,50.838642 26.807527,119.16135"
+         id="path281" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         d="M 26.807588,49.53454 143.19241,120.46546"
+         id="path283" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         d="M 118.59747,25.07787 51.402524,144.92213"
+         id="path285" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         d="M 51.402633,24.324946 118.59737,145.67505"
+         id="path287" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="leds"
+     style="display:inline">
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="path341"
+       cx="84.879135"
+       cy="21.419466"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse343"
+       cx="115.78529"
+       cy="30.222334"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse345"
+       cx="138.20029"
+       cy="53.700981"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse361"
+       cx="146.3611"
+       cy="84.191666"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse363"
+       cx="138.20195"
+       cy="117.48885"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse365"
+       cx="115.78529"
+       cy="139.77766"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse367"
+       cx="85.120857"
+       cy="148.58054"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse369"
+       cx="54.456432"
+       cy="139.77766"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse371"
+       cx="31.798058"
+       cy="116.29901"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse373"
+       cx="23.638897"
+       cy="84.191666"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse375"
+       cx="31.799711"
+       cy="53.700981"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse377"
+       cx="54.456432"
+       cy="30.222334"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect507"
+       width="17.248657"
+       height="57.158653"
+       x="17.600634"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect509"
+       width="17.248657"
+       height="57.158653"
+       x="36.08707"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.455335"
+       id="rect505"
+       width="17.258137"
+       height="42.542183"
+       x="27.604347"
+       y="218.63579" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect511"
+       width="17.248657"
+       height="57.158653"
+       x="54.839893"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.455335"
+       id="rect513"
+       width="17.258137"
+       height="42.542183"
+       x="47.600574"
+       y="218.63579" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect515"
+       width="17.248657"
+       height="57.158653"
+       x="74.383858"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect519"
+       width="17.248657"
+       height="57.158653"
+       x="94.046867"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.455335"
+       id="rect517"
+       width="17.258137"
+       height="42.542183"
+       x="84.65699"
+       y="218.63579" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect531"
+       width="17.248657"
+       height="57.158653"
+       x="113.14954"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.455335"
+       id="rect533"
+       width="17.258137"
+       height="42.542183"
+       x="103.77015"
+       y="218.63579" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.527646"
+       id="rect535"
+       width="17.248657"
+       height="57.158653"
+       x="131.92993"
+       y="231.11148" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.455335"
+       id="rect537"
+       width="17.258137"
+       height="42.542183"
+       x="122.56087"
+       y="218.63579" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       d="M 13.526563,173.38282 H 159.33954"
+       id="path576" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       d="M 13.526563,178.54223 H 159.33954"
+       id="path580" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       d="M 13.526563,183.70164 H 159.33954"
+       id="path582" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       d="M 13.526563,188.86104 H 159.33954"
+       id="path584" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       d="M 13.526563,194.02045 H 159.33954"
+       id="path586" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="29.090307"
+       y="176.54309"
+       id="text691"><tspan
+         sodipodi:role="line"
+         x="29.090307"
+         y="176.54309"
+         id="tspan689"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan685">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan687"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="34.327042"
+       y="184.22246"
+       id="text758"><tspan
+         sodipodi:role="line"
+         x="34.327042"
+         y="184.22246"
+         id="tspan756"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan752">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan754"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="45.916576"
+       y="173.39182"
+       id="text766"><tspan
+         sodipodi:role="line"
+         x="45.916576"
+         y="173.39182"
+         id="tspan764"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan760">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan762"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="52.020866"
+       y="181.9054"
+       id="text774"><tspan
+         sodipodi:role="line"
+         x="52.020866"
+         y="181.9054"
+         id="tspan772"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan768">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan770"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="59.286877"
+       y="189.55249"
+       id="text782"><tspan
+         sodipodi:role="line"
+         x="59.286877"
+         y="189.55249"
+         id="tspan780"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan776">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan778"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="67.892647"
+       y="179.26717"
+       id="text790"><tspan
+         sodipodi:role="line"
+         x="67.892647"
+         y="179.26717"
+         id="tspan788"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan784">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan786"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622027"
+       x="76.353752"
+       y="186.99374"
+       id="text798"><tspan
+         sodipodi:role="line"
+         x="76.353752"
+         y="186.99374"
+         id="tspan796"
+         style="stroke-width:0.622027"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:'MS Gothic';fill:#000000;stroke-width:0.622027"
+           id="tspan792">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.13604px;font-family:Calibri;fill:#000000;stroke-width:0.622027"
+           id="tspan794"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse800"
+       cx="41.452652"
+       cy="173.27527"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse802"
+       cx="47.363991"
+       cy="181.15706"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse804"
+       cx="56.499695"
+       cy="170.23004"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse806"
+       cx="62.948429"
+       cy="178.64922"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse808"
+       cx="70.471954"
+       cy="186.17274"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse810"
+       cx="78.532867"
+       cy="175.96225"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse812"
+       cx="87.13118"
+       cy="183.48578"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.8871px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05654;stroke-dasharray:none"
+       x="11.454729"
+       y="193.02832"
+       id="text894"><tspan
+         sodipodi:role="line"
+         id="tspan892"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05654;stroke-dasharray:none"
+         x="11.454729"
+         y="193.02832">𝄞</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1574"
+       cx="36.755356"
+       cy="237.07149"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1576"
+       cx="56.45982"
+       cy="237.07149"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1578"
+       cx="93.360909"
+       cy="237.07149"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1580"
+       cx="111.99059"
+       cy="237.07149"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1582"
+       cx="130.97853"
+       cy="237.07149"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1584"
+       cx="26.365744"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1586"
+       cx="44.995419"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1588"
+       cx="63.625092"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1590"
+       cx="82.613029"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1592"
+       cx="102.67576"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1594"
+       cx="121.6637"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.241607"
+       id="ellipse1596"
+       cx="140.46426"
+       cy="277.19693"
+       rx="4.1507869"
+       ry="4.1112242" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="99.154709"
+       y="186.77104"
+       id="text2425"><tspan
+         sodipodi:role="line"
+         x="99.154709"
+         y="186.77104"
+         id="tspan2423"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2419">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2421"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2436"
+       cx="109.70174"
+       cy="183.48578"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="104.76541"
+       y="178.53099"
+       id="text2562"><tspan
+         sodipodi:role="line"
+         x="104.76541"
+         y="178.53099"
+         id="tspan2560"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2556">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2558"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2564"
+       cx="114.95415"
+       cy="175.96225"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="111.93067"
+       y="188.56236"
+       id="text2572"><tspan
+         sodipodi:role="line"
+         x="111.93067"
+         y="188.56236"
+         id="tspan2570"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2566">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2568"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2574"
+       cx="122.11941"
+       cy="185.99362"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="117.84201"
+       y="180.85971"
+       id="text2582"><tspan
+         sodipodi:role="line"
+         x="117.84201"
+         y="180.85971"
+         id="tspan2580"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2576">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2578"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2584"
+       cx="128.03076"
+       cy="178.29097"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="125.72379"
+       y="191.24934"
+       id="text2592"><tspan
+         sodipodi:role="line"
+         x="125.72379"
+         y="191.24934"
+         id="tspan2590"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2586">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2588"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2594"
+       cx="135.91254"
+       cy="188.6806"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="132.17253"
+       y="183.54669"
+       id="text2602"><tspan
+         sodipodi:role="line"
+         x="132.17253"
+         y="183.54669"
+         id="tspan2600"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2596">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2598"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2604"
+       cx="142.36127"
+       cy="180.97795"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662484"
+       x="141.30824"
+       y="193.75719"
+       id="text2612"><tspan
+         sodipodi:role="line"
+         x="141.30824"
+         y="193.75719"
+         id="tspan2610"
+         style="stroke-width:0.662484"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:'MS Gothic';fill:#000000;stroke-width:0.662484"
+           id="tspan2606">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.73023px;font-family:Calibri;fill:#000000;stroke-width:0.662484"
+           id="tspan2608"> </tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.139341"
+       id="ellipse2614"
+       cx="151.49698"
+       cy="191.18845"
+       rx="2.3938594"
+       ry="2.3710425" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="80.164124"
+       y="40.695984"
+       id="text3472"><tspan
+         sodipodi:role="line"
+         id="tspan3470"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="80.164124"
+         y="40.695984">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="81.508827"
+       y="55.972313"
+       id="text3476"><tspan
+         sodipodi:role="line"
+         id="tspan3474"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="81.508827"
+         y="55.972313">Am</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="95.83934"
+       y="61.704521"
+       id="text3480"><tspan
+         sodipodi:role="line"
+         id="tspan3478"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="95.83934"
+         y="61.704521">Em</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="103.63035"
+       y="48.936031"
+       id="text3484"><tspan
+         sodipodi:role="line"
+         id="tspan3482"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="103.63035"
+         y="48.936031">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="119.39392"
+       y="66.132652"
+       id="text3488"><tspan
+         sodipodi:role="line"
+         id="tspan3486"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="119.39392"
+         y="66.132652">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="105.8707"
+       y="72.273277"
+       id="text3492"><tspan
+         sodipodi:role="line"
+         id="tspan3490"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="105.8707"
+         y="72.273277">Bm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="127.79665"
+       y="89.957138"
+       id="text3636"><tspan
+         sodipodi:role="line"
+         id="tspan3634"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="127.79665"
+         y="89.957138">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="107.83292"
+       y="86.945602"
+       id="text3640"><tspan
+         sodipodi:role="line"
+         id="tspan3638"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="107.83292"
+         y="86.945602">F#m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-0.69827819"
+       y="-0.31877917"
+       id="text4397"><tspan
+         sodipodi:role="line"
+         x="-0.69827819"
+         y="-0.31877917"
+         id="tspan4395"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:'MS Gothic';fill:#000000;stroke-width:0.264583"
+           id="tspan4391">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan4393"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="122.73005"
+       y="114.02351"
+       id="text4559"><tspan
+         sodipodi:role="line"
+         id="tspan4557"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="122.73005"
+         y="114.02351">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="103.27298"
+       y="100.11877"
+       id="text4563"><tspan
+         sodipodi:role="line"
+         id="tspan4561"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="103.27298"
+         y="100.11877">C#m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="104.74361"
+       y="130.7433"
+       id="text4567"><tspan
+         sodipodi:role="line"
+         id="tspan4565"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="104.74361"
+         y="130.7433">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="95.948914"
+       y="116.12358"
+       id="text4571"><tspan
+         sodipodi:role="line"
+         id="tspan4569"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="95.948914"
+         y="116.12358">G#m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="88.322159"
+       y="141.91232"
+       id="text4575"><tspan
+         sodipodi:role="line"
+         id="tspan4573"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="88.322159"
+         y="141.91232">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.48014px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.441202"
+       x="92.353119"
+       y="143.82355"
+       id="text5312"><tspan
+         sodipodi:role="line"
+         x="92.353119"
+         y="143.82355"
+         id="tspan5310"
+         style="stroke-width:0.441202"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.48014px;font-family:'MS Gothic';fill:#000000;stroke-width:0.441202"
+           id="tspan5306">♯</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.48014px;font-family:Calibri;fill:#000000;stroke-width:0.441202"
+           id="tspan5308"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="72.977394"
+       y="141.40155"
+       id="text5489"><tspan
+         sodipodi:role="line"
+         id="tspan5487"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="72.977394"
+         y="141.40155">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.527865"
+       x="80.589676"
+       y="143.2916"
+       id="text5497"><tspan
+         sodipodi:role="line"
+         x="80.589676"
+         y="143.2916"
+         id="tspan5495"
+         style="stroke-width:0.527865"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:'MS Gothic';fill:#000000;stroke-width:0.527865"
+           id="tspan5491">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:Calibri;fill:#000000;stroke-width:0.527865"
+           id="tspan5493"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="79.274139"
+       y="118.10521"
+       id="text5501"><tspan
+         sodipodi:role="line"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="79.274139"
+         y="118.10521"
+         id="tspan5503">Ebm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="78.469131"
+       y="124.43847"
+       id="text5509"><tspan
+         sodipodi:role="line"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="78.469131"
+         y="124.43847"
+         id="tspan5507">D#m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="56.821369"
+       y="130.22519"
+       id="text5513"><tspan
+         sodipodi:role="line"
+         id="tspan5511"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="56.821369"
+         y="130.22519">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.527865"
+       x="62.096573"
+       y="136.19835"
+       id="text5521"><tspan
+         sodipodi:role="line"
+         x="62.096573"
+         y="136.19835"
+         id="tspan5519"
+         style="stroke-width:0.527865"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:'MS Gothic';fill:#000000;stroke-width:0.527865"
+           id="tspan5515">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:Calibri;fill:#000000;stroke-width:0.527865"
+           id="tspan5517"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="63.567669"
+       y="113.29194"
+       id="text5525"><tspan
+         sodipodi:role="line"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="63.567669"
+         y="113.29194"
+         id="tspan5523">Bbm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="37.611111"
+       y="112.50352"
+       id="text5529"><tspan
+         sodipodi:role="line"
+         id="tspan5527"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="37.611111"
+         y="112.50352">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.527865"
+       x="44.870121"
+       y="114.66528"
+       id="text5537"><tspan
+         sodipodi:role="line"
+         x="44.870121"
+         y="114.66528"
+         id="tspan5535"
+         style="stroke-width:0.527865"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:'MS Gothic';fill:#000000;stroke-width:0.527865"
+           id="tspan5531">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:Calibri;fill:#000000;stroke-width:0.527865"
+           id="tspan5533"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="54.29319"
+       y="101.939"
+       id="text5541"><tspan
+         sodipodi:role="line"
+         id="tspan5539"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="54.29319"
+         y="101.939">Fm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="32.544506"
+       y="89.450485"
+       id="text5545"><tspan
+         sodipodi:role="line"
+         id="tspan5543"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="32.544506"
+         y="89.450485">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.527865"
+       x="38.559372"
+       y="91.634743"
+       id="text5553"><tspan
+         sodipodi:role="line"
+         x="38.559372"
+         y="91.634743"
+         id="tspan5551"
+         style="stroke-width:0.527865"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:'MS Gothic';fill:#000000;stroke-width:0.527865"
+           id="tspan5547">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:Calibri;fill:#000000;stroke-width:0.527865"
+           id="tspan5549"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="50.49324"
+       y="87.544197"
+       id="text5557"><tspan
+         sodipodi:role="line"
+         id="tspan5555"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="50.49324"
+         y="87.544197">Cm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="38.371101"
+       y="64.624123"
+       id="text5561"><tspan
+         sodipodi:role="line"
+         id="tspan5559"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="38.371101"
+         y="64.624123">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;line-height:125%;font-family:'MS Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.527865"
+       x="44.892628"
+       y="67.821709"
+       id="text5569"><tspan
+         sodipodi:role="line"
+         x="44.892628"
+         y="67.821709"
+         id="tspan5567"
+         style="stroke-width:0.527865"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:'MS Gothic';fill:#000000;stroke-width:0.527865"
+           id="tspan5563">♭</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.75302px;font-family:Calibri;fill:#000000;stroke-width:0.527865"
+           id="tspan5565"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="55.075687"
+       y="71.882744"
+       id="text5573"><tspan
+         sodipodi:role="line"
+         id="tspan5571"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="55.075687"
+         y="71.882744">Gm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5739px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52574;stroke-dasharray:none"
+       x="57.624195"
+       y="48.202682"
+       id="text5577"><tspan
+         sodipodi:role="line"
+         id="tspan5575"
+         style="font-size:13.5739px;stroke-width:2.52574"
+         x="57.624195"
+         y="48.202682">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3349px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.992682;stroke-dasharray:none"
+       x="64.679733"
+       y="59.171219"
+       id="text5581"><tspan
+         sodipodi:role="line"
+         id="tspan5579"
+         style="font-size:5.3349px;stroke-width:0.992682"
+         x="64.679733"
+         y="59.171219">Dm</tspan></text>
+  </g>
+</svg>
