@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<body onload="onLoad()">
+<object data="quintas_js.svg" type="image/svg+xml"
+          id="desenho" width="50%" height="50%"></object>
+
+<script>
+    var desenho = document.getElementById("desenho");
+
+    function getElementos(nota, doc) {
+        var nomes;
+        var nomesPorNota = {
+            "sol maior": ['solmaior', 'tecla_fasustenido', 'nota_fasustenido'],
+            "re maior": ['remaior', 'tecla_fasustenido', 'nota_fasustenido', 'nota_dosustenido',
+                                'tecla_dosustenido'],
+            "la maior": []
+        }
+
+        nomes = nomesPorNota[nota];
+
+        var elementos = [];
+        for(e in nomes) {
+            var elemento_atual = doc.getElementById(nomes[e]);
+            elementos.push(elemento_atual);
+        }
+        return elementos;
+    }
+
+    function pinta(elementos) {
+        for (e in elementos) {
+            vermelho(elementos[e]);
+        }
+
+    }
+
+    function onLoad() {
+
+        var svgDoc = desenho.contentDocument;
+
+        var elementosSolMaior = getElementos("sol maior", svgDoc);
+
+        var solmaior = svgDoc.getElementById("solmaior");
+        solmaior.addEventListener("mousedown", function(){ 
+            pinta(elementosSolMaior);
+        }, false);
+
+        var remaior = svgDoc.getElementById("remaior");
+        remaior.addEventListener("mousedown", function(){ 
+            pinta(getElementos("re maior", svgDoc));
+        }, false);
+
+    }
+
+    function vermelho(elemento) {
+        elemento.setAttribute("style", "fill:red;");
+    }
+
+</script>
+</body>
+</html>
